@@ -37,10 +37,6 @@ Los materiales de este repositorio, incluyendo los **códigos, notebooks y ejerc
 - **Adrián Pérez-Montejo**, Geólogo
 - **Kevin Tarazona**, BSc (c)
 
-El repositorio del autor principal del material puede consultarse en:
-
-**[Repositorio del autor — Adrián Pérez-Montejo](https://github.com/alvercy/inversion-geofisica-python)**
-
 La autoría anterior corresponde al desarrollo del material disponible en este repositorio. Las personas encargadas de la dirección y dictado del curso se reconocen en la sección institucional correspondiente.
 
 ## Ruta científica
