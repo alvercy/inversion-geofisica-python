@@ -37,10 +37,6 @@ Los **códigos, notebooks y ejercicios prácticos** disponibles en este reposito
 - **Adrián Pérez-Montejo**, Geólogo
 - **Kevin Tarazona**, BSc (c)
 
-Repositorio del autor del material:
-
-**[Adrián Pérez-Montejo — inversion-geofisica-python](https://github.com/alvercy/inversion-geofisica-python)**
-
 Las personas encargadas de la dirección y dictado del curso se reconocen en la sección institucional y en `CITATION.cff`.
 
 ## Ruta científica
@@ -190,10 +186,6 @@ Una referencia general puede expresarse como:
 Repositorio:
 
 [https://github.com/Anagabrielamantilla/inversion-geofisica-python](https://github.com/Anagabrielamantilla/inversion-geofisica-python)
-
-Repositorio del autor del material:
-
-[https://github.com/alvercy/inversion-geofisica-python](https://github.com/alvercy/inversion-geofisica-python)
 
 Para obtener la información bibliográfica completa, consulta [`CITATION.cff`](CITATION.cff).
 
